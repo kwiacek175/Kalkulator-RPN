@@ -1,0 +1,3 @@
+C:/Users/Kacper/CLionProjects/Kalkulator_RPN/cmake-build-debug/CMakeFiles/Kalkulator_RPN.dir
+C:/Users/Kacper/CLionProjects/Kalkulator_RPN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/CLionProjects/Kalkulator_RPN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
